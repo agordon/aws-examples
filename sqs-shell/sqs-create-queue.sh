@@ -1,5 +1,9 @@
 #!/bin/sh
 
+## AWS S3 Examples
+## Copyright (C) 2014 Assaf Gordon (assafgordon@gmail.com)
+## License: GPLv3-or-later
+
 ##
 ## Example of Creating SQS queue from the command line.
 ## See 'aws sqs create-queue help' for details about the attributes.

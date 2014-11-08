@@ -1,5 +1,9 @@
 #!/bin/sh
 
+## AWS S3 Examples
+## Copyright (C) 2014 Assaf Gordon (assafgordon@gmail.com)
+## License: GPLv3-or-later
+
 ## Example of posting a message to an SQS queue,
 ## simulating a 'job'.
 ##
